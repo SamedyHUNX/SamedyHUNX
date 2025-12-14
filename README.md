@@ -66,9 +66,9 @@ Custom authentication implementations, OAuth, NextAuth, Google Auth
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamedyHUNX&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamedyHUNX&layout=compact&theme=radical)
 
 ### 🌟 Featured Projects
 
@@ -76,9 +76,8 @@ Coming soon...
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: [linkedin.com/in/vadhna-samedy-hun-91a2b01b0](https://www.linkedin.com/in/vadhna-samedy-hun-91a2b01b0/)
+- Email: samedy.hunx@gmail.com
 
 ---
 

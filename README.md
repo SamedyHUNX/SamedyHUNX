@@ -13,62 +13,27 @@ I'm a passionate full-stack developer specializing in building scalable applicat
 
 ### 💻 Tech Stack
 
-**Languages**
-
-- Python (Advanced)
-- JavaScript (Advanced)
-- TypeScript
-- HTML/CSS
-
-**Frontend**
-
-- React.js, Next.js, React Native
-- Tailwind CSS
-- Redux, Zustand
-
-**Backend**
-
-- Node.js, Express.js, Nest.js
-- Firebase, Supabase
-- Redis
-
-**Databases & ORMs**
-
-- PostgreSQL, MySQL, MongoDB
-- TypeORM, Drizzle, Zod
-
-**AI/ML/DL**
-
-- TensorFlow, PyTorch, Scikit-Learn, XGBoost
-- LLMs (from scratch), Transformers, Fine-tuning
-- Neural Networks, Backpropagation
-- NumPy, Pandas, Matplotlib, Seaborn
-
-**DevOps & Tools**
-
-- Docker
-- Git, GitHub Actions, GitLab CI/CD
-- AWS (EC2), Vercel, Cloudflare
-- Datadog, Winston, NGINX
-
-**AI APIs**
-
-- Claude API, OpenAI API, Gemini API
-
-**Development Tools**
-
-- VSCode, PyCharm, Jupyter Notebook, Google Colab
-- Xcode, Android Studio
-
-### 🔐 Authentication & Security
-
-Custom authentication implementations, OAuth, NextAuth, Google Auth
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=express,nestjs,firebase,supabase,redis" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma,docker" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,nginx,vscode" />
+</p>
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamedyHUNX&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamedyHUNX&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamedyHUNX&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedyHUNX&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ### 🌟 Featured Projects
 

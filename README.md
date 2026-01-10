@@ -1,4 +1,4 @@
-# Hi there, I'm Vadhna Samedy HUN 👋
+Vadhna Samedy HUN 👋
 
 ### 💻 Tech Stack
 

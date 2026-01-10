@@ -1,21 +1,27 @@
-Vadhna Samedy HUN 👋
+# Vadhna Samedy HUN 👋
+
 ### 💻 Tech Stack
+
 #### 🎨 Frontend & Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,html,css,tailwind,figma" />
 </p>
+
 #### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,python" />
 </p>
+
 #### 🗄️ Database & Storage
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,prisma,firebase,supabase" />
 </p>
+
 #### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
+
 #### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,git,github,docker,aws,vercel,cloudflare,nginx,vscode" />

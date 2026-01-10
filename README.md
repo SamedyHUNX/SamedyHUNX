@@ -1,11 +1,5 @@
 # Hi there, I'm Vadhna Samedy HUN 👋
 
-### 🚀 What I Do
-- **Full-Stack Development**: Building robust web applications with React, Next.js, and Node.js
-- **AI & Machine Learning**: Developing deep learning models, training LLMs, and implementing intelligent systems
-- **Software Architecture**: Designing scalable, maintainable systems with best practices
-- **Database Management**: Optimizing data structures and queries across SQL and NoSQL databases
-
 ### 💻 Tech Stack
 
 #### 🎨 Frontend

@@ -1,9 +1,5 @@
 # Hi there, I'm Vadhna Samedy HUN 👋
 
-## Full-Stack Developer | AI/ML Engineer | Software Architect
-
-I'm a passionate full-stack developer specializing in building scalable applications with modern web technologies and AI/ML solutions. I architect end-to-end solutions from database design to deployment, with a focus on creating intelligent, data-driven applications.
-
 ### 🚀 What I Do
 
 - **Full-Stack Development**: Building robust web applications with React, Next.js, and Node.js
@@ -26,18 +22,6 @@ I'm a passionate full-stack developer specializing in building scalable applicat
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,nginx,vscode" />
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamedyHUNX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamedyHUNX&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🌟 Featured Projects
-
-Coming soon...
 
 ### 📫 Let's Connect
 
